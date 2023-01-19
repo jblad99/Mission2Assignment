@@ -10,6 +10,7 @@ namespace Assignment2
         {
             //declare and initialize the rollsTotal variable
             int rollsTotal = 0;
+            //Hey there dalilah
 
             //get number of rolls from user
             Console.WriteLine("Welcome to the simulator!" + '\n');
